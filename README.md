@@ -14,7 +14,7 @@
 </div>
 <p><strong>Hello guys! I live in Brazil, and I am a Trainee Developer. I am also an Electronic Engineer and
   I am passionate about new technologies.</strong></p>
-<p><strong>Currently, I am working at a startup technology company.</strong></p>
+<p><strong>Currently, I am working at Flexpag company.</strong></p>
 <h2></h2>
 <ul>
 <li><a href="https://emojipedia.org/laptop/" rel="nofollow"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></a> <strong> IT Consultant</strong></li>
