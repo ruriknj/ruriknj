@@ -17,8 +17,8 @@
 <p><strong>Currently, I am working at Flexpag company.</strong></p>
 <h2></h2>
 <ul>
+<li><a href="https://emojipedia.org/man-technologist-medium-skin-tone/" rel="nofollow">👨🏽&zwj;💻</a> <strong>Junior Developer</strong></li>
 <li><a href="https://emojipedia.org/laptop/" rel="nofollow"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></a> <strong> IT Consultant</strong></li>
-<li><a href="https://emojipedia.org/man-technologist-medium-skin-tone/" rel="nofollow">👨🏽&zwj;💻</a> <strong>Trainee Developer</strong></li>
 <li><a href="https://emojipedia.org/robot/" rel="nofollow"><g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">🤖</g-emoji></a> <strong>Electronic Engineer</strong></li>
 <li><a href="https://emojipedia.org/sparkling-heart/" rel="nofollow"><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">💖</g-emoji></a> <strong>Passionate about technology</strong></li>
 </ul>
